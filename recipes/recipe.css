@@ -21,9 +21,12 @@ body {
 
 p {
     color: #1A1831;
+    width: 500px;
+    height: auto;
     background-color: #DECE9C;
     padding: 5px;
     border: 5px solid #20615B;
+    margin: 20px auto;
 }
 
 h2 {
@@ -33,6 +36,7 @@ h2 {
     background-color: #DECE9C;
     border: 5px solid #20615B;
     padding: 5px;
+    margin: 20px auto;
     text-align: center;
 }
 
@@ -43,6 +47,7 @@ h3 {
     background-color: #DECE9C;
     border: 5px solid #20615B;
     padding: 5px;
+    margin: 20px auto;
     text-align: center;
 }
 
@@ -53,14 +58,23 @@ h4 {
     background-color: #DECE9C;
     border: 5px solid #20615B;
     padding: 5px;
+    margin: 20px auto;
     text-align: center;
 }
 
 ul,
 ol {
+
     color: #1A1831;
+    width: 700px;
+    height: auto;
     background-color: #DECE9C;
     border: 5px solid #20615B;
+    margin: 20px auto;
+}
+
+ul {
+    width: fit-content;
 }
 
 a {
@@ -70,5 +84,7 @@ a {
 .home {
     color: #1A1831;
     background-color: #DECE9C;
-    border: 5px solid #20615B;
+    border: 3px solid #20615B;
+    padding: 5px;
+    text-align: center;
 }
