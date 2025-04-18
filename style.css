@@ -39,3 +39,8 @@ li {
 a {
     color: #1A1831
 }
+
+.home {
+    background-color: #DECE9C;
+    border: 5px solid #20615B;
+}
