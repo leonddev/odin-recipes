@@ -1,3 +1,4 @@
 # odin-recipes
 This is a simple website showcasing delicious recipes.  
-With this project I will demonstrate my basic HTML and git skills.
+With this project I will demonstrate my basic HTML, git and CSS skills.
+You can check the website here: https://leonardanton.github.io/odin-recipes/
