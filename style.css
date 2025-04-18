@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: #A21232;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.title {
+    width: 300px;
+    height: 100px;
+    color: #1A1831;
+    background-color: #DECE9C;
+    border: 10px solid #20615B;
+    padding: 20px;
+    margin: 20px auto;
+    text-align: center;
+
+}
