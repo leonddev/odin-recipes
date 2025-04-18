@@ -8,7 +8,7 @@ body {
 }
 
 .title {
-    width: 300px;
+    width: 400px;
     height: 100px;
     color: #1A1831;
     background-color: #DECE9C;
@@ -17,4 +17,25 @@ body {
     margin: 20px auto;
     text-align: center;
 
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li {
+    width: 200px;
+    height: 50px;
+    color: #1A1831;
+    background-color: #DECE9C;
+    border: 5px solid #20615B;
+    padding: 10px;
+    margin: 10px auto;
+    text-align: center;
+
+}
+
+a {
+    color: #1A1831
 }
