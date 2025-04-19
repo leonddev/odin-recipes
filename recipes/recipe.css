@@ -21,7 +21,7 @@ body {
 
 p {
     color: #1A1831;
-    width: 500px;
+    width: fit-content;
     height: auto;
     background-color: #DECE9C;
     padding: 5px;
@@ -66,7 +66,7 @@ ul,
 ol {
 
     color: #1A1831;
-    width: 700px;
+    width: fit-content;
     height: auto;
     background-color: #DECE9C;
     border: 5px solid #20615B;
